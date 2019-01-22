@@ -17,6 +17,7 @@ for x in range (5):
       score2+=1
   else:
       print("invalid input!!!")
+      x-=1
 print("scores!:",score1,score2)
 
 
